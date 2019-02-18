@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="796405aa-6701-45b1-9c7c-4a24af190f5f" version="1">
+  <Properties>
+    <Name>Build Silos Outside Territory</Name>
+    <Description>This mod allows missile silos to be built outside your territory.</Description>
+    <Teaser>This mod allows missile silos to be built outside your territory.</Teaser>
+    <Authors>Samasaur</Authors>
+    <CompatibleVersions>2.0</CompatibleVersions>
+  </Properties>
+  <Files>
+    <File>silo.sql</File>
+  </Files>
+</Mod>
