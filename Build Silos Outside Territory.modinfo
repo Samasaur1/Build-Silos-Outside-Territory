@@ -10,4 +10,11 @@
   <Files>
     <File>silo.sql</File>
   </Files>
+  <Components>
+		<UpdateDatabase>
+			<Items>
+				<File>silo.sql</File>
+			</Items>
+		</UpdateDatabase>
+	</Components>
 </Mod>
